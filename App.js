@@ -9,6 +9,7 @@ export default function App() {
     </View>
   );
 }
+// view와 text에 대해 잘 알아두자
 
 const styles = StyleSheet.create({
   container: {
